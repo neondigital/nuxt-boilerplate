@@ -5,8 +5,8 @@
 - [ ] Composition API
 - [ ] RESTful API integration to VueX (Nuxt Store)
 - [ ] Sanctum Authentication
+- [x] PWA
 - [ ] Tailwind 2.0
 - [ ] Mirage JS
-- [ ] Testing
-- [ ] TypeScript?
-- [ ] Vue3?
+- [x] Testing
+- [x] TypeScript
