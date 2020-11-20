@@ -7,6 +7,6 @@
 - [ ] Sanctum Authentication
 - [x] PWA
 - [x] Tailwind 2.0
-- [ ] Mirage JS
+- [x] Mirage JS
 - [x] Testing
 - [x] TypeScript
