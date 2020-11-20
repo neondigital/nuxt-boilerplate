@@ -3,14 +3,10 @@
     <div>
       <Logo />
       <h1 class="title">
-        nuxt-boilerplate
+        About
       </h1>
       <div class="links">
-        <NuxtLink to="/about">About</NuxtLink>
-        -
-        <NuxtLink to="/stuff">Stuff</NuxtLink>
-        -
-        <NuxtLink to="/blog/my-lovely-horse">Blog Post</NuxtLink>
+        <NuxtLink to="/">Home</NuxtLink>
       </div>
     </div>
   </div>
